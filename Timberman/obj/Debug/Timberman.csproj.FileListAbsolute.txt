@@ -1,0 +1,11 @@
+C:\Users\sagit\source\repos\Timberman\Timberman\bin\Debug\Timberman.exe.config
+C:\Users\sagit\source\repos\Timberman\Timberman\bin\Debug\Timberman.exe
+C:\Users\sagit\source\repos\Timberman\Timberman\bin\Debug\Timberman.pdb
+C:\Users\sagit\source\repos\Timberman\Timberman\obj\Debug\Timberman.csproj.AssemblyReference.cache
+C:\Users\sagit\source\repos\Timberman\Timberman\obj\Debug\Timberman.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagit\source\repos\Timberman\Timberman\obj\Debug\Timberman.Form1.resources
+C:\Users\sagit\source\repos\Timberman\Timberman\obj\Debug\Timberman.Properties.Resources.resources
+C:\Users\sagit\source\repos\Timberman\Timberman\obj\Debug\Timberman.csproj.GenerateResource.cache
+C:\Users\sagit\source\repos\Timberman\Timberman\obj\Debug\Timberman.csproj.CoreCompileInputs.cache
+C:\Users\sagit\source\repos\Timberman\Timberman\obj\Debug\Timberman.exe
+C:\Users\sagit\source\repos\Timberman\Timberman\obj\Debug\Timberman.pdb
